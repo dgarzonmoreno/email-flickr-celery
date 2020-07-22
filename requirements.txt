@@ -2,7 +2,7 @@ amqp==2.6.0
 anyjson==0.3.3
 billiard==3.6.3.0
 celery==4.4.6
-Django==2.1.15
+Django==2.2.13
 future==0.18.2
 importlib-metadata==1.7.0
 kombu==4.3.0
